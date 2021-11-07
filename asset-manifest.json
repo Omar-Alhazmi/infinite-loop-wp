@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/infinite-loop-wp/static/css/main.010d2ff3.chunk.css",
+    "main.js": "/infinite-loop-wp/static/js/main.9d1fabee.chunk.js",
+    "main.js.map": "/infinite-loop-wp/static/js/main.9d1fabee.chunk.js.map",
+    "runtime-main.js": "/infinite-loop-wp/static/js/runtime-main.652a2f6f.js",
+    "runtime-main.js.map": "/infinite-loop-wp/static/js/runtime-main.652a2f6f.js.map",
+    "static/js/2.4000f31e.chunk.js": "/infinite-loop-wp/static/js/2.4000f31e.chunk.js",
+    "static/js/2.4000f31e.chunk.js.map": "/infinite-loop-wp/static/js/2.4000f31e.chunk.js.map",
+    "static/js/3.c152540b.chunk.js": "/infinite-loop-wp/static/js/3.c152540b.chunk.js",
+    "static/js/3.c152540b.chunk.js.map": "/infinite-loop-wp/static/js/3.c152540b.chunk.js.map",
+    "index.html": "/infinite-loop-wp/index.html",
+    "static/css/main.010d2ff3.chunk.css.map": "/infinite-loop-wp/static/css/main.010d2ff3.chunk.css.map",
+    "static/js/2.4000f31e.chunk.js.LICENSE.txt": "/infinite-loop-wp/static/js/2.4000f31e.chunk.js.LICENSE.txt",
+    "static/media/crypto.26427d54.svg": "/infinite-loop-wp/static/media/crypto.26427d54.svg",
+    "static/media/data.f096e041.svg": "/infinite-loop-wp/static/media/data.f096e041.svg",
+    "static/media/login.svg": "/infinite-loop-wp/static/media/login.d7765b61.svg",
+    "static/media/rev.92bfe67c.svg": "/infinite-loop-wp/static/media/rev.92bfe67c.svg",
+    "static/media/sv1.svg": "/infinite-loop-wp/static/media/sv1.41dc34da.svg",
+    "static/media/video.1f7d396a.mp4": "/infinite-loop-wp/static/media/video.1f7d396a.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.652a2f6f.js",
+    "static/js/2.4000f31e.chunk.js",
+    "static/css/main.010d2ff3.chunk.css",
+    "static/js/main.9d1fabee.chunk.js"
+  ]
+}
