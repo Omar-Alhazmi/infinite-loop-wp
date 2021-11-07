@@ -6,7 +6,7 @@ import SigninPage from "./pages/signin";
 
 function App() {
   return (
-    <Router basename="/will-be-define">
+    <Router basename="/infinite-loop-wp">
       <Switch>
         <Route path="/" component={Home} exact />
         <Route path="/signin" component={SigninPage} exact />
