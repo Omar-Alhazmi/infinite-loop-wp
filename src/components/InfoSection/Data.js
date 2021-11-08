@@ -1,17 +1,42 @@
-const des = <ul>
+import * as InfoElements from "./InfoElements";
+import {Button} from "../ButtonElements";
+
+const MVPLink = <Button href='https://vex-xcc.github.io/infinite-loop/#/' target="_blank">
+    MVP
+</Button>
+const describe = <>
+<InfoElements.Subtitle>
+Inventory is an expensive asset that needs to be carefully managed and controlled. 
+                Complex decisions need to be made about how much to hold and where to store it.
+</InfoElements.Subtitle>
+<InfoElements.TopLine>
+Inventory Management
+</InfoElements.TopLine>
+<InfoElements.Subtitle>
+For inventory management to be properly achieved, 
+    the organization not only  needs an ERP system, but also a level of 
+    functional and process maturity to ensure  the system can be used effectively
+</InfoElements.Subtitle>
+</>
+const des =
+<>
+<ul>
     <li>Enterprise</li>
     <li>Resource</li>
-    <li>planning</li>
+    <li>Planning</li>
 </ul>
+<br />
+Company have relied on it since the 90s to streamlined process and improve data visibility 
+around finance project management and manufacturing.
+</>
 export const homeObjOne={
     id:'about',
     lightBg:false,
-    lightText:true,
+    lightParagraph:true,
     lightTextDesc:true,
     topLine:'Whats ERP ?',
     headline:'ERP stand for',
-    description:` 1- Enterprise 2-Resource, 3-planning
-    Company have relied on it since the 90s to streamlined process and improve data visibility around finance project management and manufacturing`,
+    description:des,
     imgStart:false,
     img: require('../../images/sv1.svg').default,
     alt:'Car',
@@ -27,9 +52,7 @@ export const homeObjTwo={
     lightTextDesc:false,
     topLine:'Why is Inventory so Important?',
     headline:'',
-    description:`Inventory is an expensive asset that needs to be carefully managed and controlled. 
-                Complex decisions need to be made about how much to hold and where to store it.`,
-    buttonLabel:'Learn More',
+    description: describe,
     imgStart:true,
     img: require('../../images/login.svg').default,
     alt:'Piggybank',
@@ -37,19 +60,21 @@ export const homeObjTwo={
     primary:false,
     darkText:true,
 };
-// export const homeObjThree={
-//     id:'signup',
-//     lightBg:true,
-//     lightText:false,
-//     lightTextDesc:false,
-//     topLine:'Join Our Team',
-//     headline:'Craeting an account is extremely easy',
-//     description:'Get everything set up and ready in under 10 minutes .All you need to do is add your information and youre ready to go.',
-//     buttonLabel:'Start Now',
-//     imgStart:false,
-//     img: require("../../images/bitcoin.svg").default,
-//     alt:'Papper',
-//     dark:false,
-//     primary:false,
-//     darkText:true,
-// };
+
+export const homeObjThree={
+    id:'signup',
+    lightBg:false,
+    lightText:true,
+    lightTextDesc:true,
+    lightParagraph:true,
+    topLine:'JOIN Us To Improve Your work',
+    headline:'Take a look at InfiniteLoop MVP',
+    description:MVPLink,
+    buttonLabel:'Download White Paper',
+    imgStart:true,
+    img: require("../../images/bitcoin.svg").default,
+    alt:'Papper',
+    dark:true,
+    primary:true,
+    darkText:true,
+};

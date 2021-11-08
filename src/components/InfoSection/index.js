@@ -1,8 +1,8 @@
 import React from "react";
 import {Button} from "../ButtonElements";
 import * as InfoElements from "./InfoElements";
-
-const InfoSection = ({lightBg,id,imgStart,topLine,lightText,headline,darkText,description,buttonLabel,img,alt,primary,dark,dark2}) => {
+import WhitePaper from './infinteloopERP.pdf'
+const InfoSection = ({lightBg,id,imgStart,topLine,lightText,headline,lightParagraph,description,buttonLabel,img,alt,primary,dark,dark2}) => {
   return (
     <>
      {id === "signup" ?
@@ -13,9 +13,9 @@ const InfoSection = ({lightBg,id,imgStart,topLine,lightText,headline,darkText,de
               <InfoElements.TextWrapper>
                 <InfoElements.TopLine>{topLine}</InfoElements.TopLine>
                 <InfoElements.Heading lightText={lightText}>{headline}</InfoElements.Heading>
-                <InfoElements.Subtitle darkText={darkText}>{description}</InfoElements.Subtitle>
+                <InfoElements.Subtitle lightParagraph={lightParagraph}>{description}</InfoElements.Subtitle>
                 <InfoElements.BtnWrap>
-                  <Button to="home" smooth={true} duration={500} spy={true} exact="true" offset={-80} primary={primary ? 1:0 }  dark={dark ? 1 :0}  dark2={dark2 ? 1:0}>{buttonLabel}</Button>
+                    <Button primary href={WhitePaper} download>{buttonLabel}</Button>
                 </InfoElements.BtnWrap>
               </InfoElements.TextWrapper>
             </InfoElements.Column1>
@@ -34,9 +34,8 @@ const InfoSection = ({lightBg,id,imgStart,topLine,lightText,headline,darkText,de
               <InfoElements.TextWrapper>
                 <InfoElements.TopLine>{topLine}</InfoElements.TopLine>
                 <InfoElements.Heading lightText={lightText}>{headline}</InfoElements.Heading>
-                <InfoElements.Subtitle darkText={darkText}>{description}</InfoElements.Subtitle>
+                <InfoElements.Subtitle lightParagraph={lightParagraph}>{description}</InfoElements.Subtitle>
                 <InfoElements.BtnWrap>
-                  <Button to="home" smooth={true} duration={500} spy={true} exact="true" offset={-80} primary={primary ? 1:0 }  dark={dark ? 1 :0}  dark2={dark2 ? 1:0}>{buttonLabel}</Button>
                 </InfoElements.BtnWrap>
               </InfoElements.TextWrapper>
             </InfoElements.Column1>

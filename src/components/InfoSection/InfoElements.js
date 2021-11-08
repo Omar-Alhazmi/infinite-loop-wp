@@ -76,7 +76,15 @@ export const TopLine = styled.p`
     text-transform:uppercase;
     margin-bottom:16px;
 `;
-
+export const TopLine2 = styled.p`
+    color:#6c64ff;
+    font-size:16px;
+    line-height:16px;
+    font-weight:700;
+    letter-spacing:1.4px;
+    text-transform:uppercase;
+    margin-bottom:16px;
+`;
 export const Heading =styled.h1`
     margin-bottom:24px;
     font-size:48px;
@@ -94,8 +102,9 @@ export const Subtitle=styled.p`
     margin-bottom:35px;
     font-size:18px;
     line-height:24px;
-    color:${({darkText})=>(darkText ? '#282c34' :'#fff')};
+    color:${({lightParagraph})=>(lightParagraph ? '#fff' : '#282c34')};
 `;
+
 
 export const BtnWrap=styled.div`
     display:flex;
