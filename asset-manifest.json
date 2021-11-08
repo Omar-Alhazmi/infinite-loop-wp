@@ -1,28 +1,33 @@
 {
   "files": {
-    "main.css": "/infinite-loop-wp/static/css/main.010d2ff3.chunk.css",
-    "main.js": "/infinite-loop-wp/static/js/main.c33c3208.chunk.js",
-    "main.js.map": "/infinite-loop-wp/static/js/main.c33c3208.chunk.js.map",
-    "runtime-main.js": "/infinite-loop-wp/static/js/runtime-main.652a2f6f.js",
-    "runtime-main.js.map": "/infinite-loop-wp/static/js/runtime-main.652a2f6f.js.map",
-    "static/js/2.4000f31e.chunk.js": "/infinite-loop-wp/static/js/2.4000f31e.chunk.js",
-    "static/js/2.4000f31e.chunk.js.map": "/infinite-loop-wp/static/js/2.4000f31e.chunk.js.map",
-    "static/js/3.c152540b.chunk.js": "/infinite-loop-wp/static/js/3.c152540b.chunk.js",
-    "static/js/3.c152540b.chunk.js.map": "/infinite-loop-wp/static/js/3.c152540b.chunk.js.map",
+    "main.css": "/infinite-loop-wp/static/css/main.ea2fcf8c.chunk.css",
+    "main.js": "/infinite-loop-wp/static/js/main.633a8520.chunk.js",
+    "main.js.map": "/infinite-loop-wp/static/js/main.633a8520.chunk.js.map",
+    "runtime-main.js": "/infinite-loop-wp/static/js/runtime-main.a7e13fd0.js",
+    "runtime-main.js.map": "/infinite-loop-wp/static/js/runtime-main.a7e13fd0.js.map",
+    "static/js/2.ca761bed.chunk.js": "/infinite-loop-wp/static/js/2.ca761bed.chunk.js",
+    "static/js/2.ca761bed.chunk.js.map": "/infinite-loop-wp/static/js/2.ca761bed.chunk.js.map",
+    "static/js/3.f72cbae8.chunk.js": "/infinite-loop-wp/static/js/3.f72cbae8.chunk.js",
+    "static/js/3.f72cbae8.chunk.js.map": "/infinite-loop-wp/static/js/3.f72cbae8.chunk.js.map",
     "index.html": "/infinite-loop-wp/index.html",
-    "static/css/main.010d2ff3.chunk.css.map": "/infinite-loop-wp/static/css/main.010d2ff3.chunk.css.map",
-    "static/js/2.4000f31e.chunk.js.LICENSE.txt": "/infinite-loop-wp/static/js/2.4000f31e.chunk.js.LICENSE.txt",
+    "static/css/main.ea2fcf8c.chunk.css.map": "/infinite-loop-wp/static/css/main.ea2fcf8c.chunk.css.map",
+    "static/js/2.ca761bed.chunk.js.LICENSE.txt": "/infinite-loop-wp/static/js/2.ca761bed.chunk.js.LICENSE.txt",
+    "static/media/EnhancedCollaboration.61e0a2d4.svg": "/infinite-loop-wp/static/media/EnhancedCollaboration.61e0a2d4.svg",
+    "static/media/ImprovedBusiness.5f54ceae.svg": "/infinite-loop-wp/static/media/ImprovedBusiness.5f54ceae.svg",
+    "static/media/MakeMoreMoney.8a2825ae.svg": "/infinite-loop-wp/static/media/MakeMoreMoney.8a2825ae.svg",
+    "static/media/bitcoin.svg": "/infinite-loop-wp/static/media/bitcoin.3176341f.svg",
     "static/media/crypto.26427d54.svg": "/infinite-loop-wp/static/media/crypto.26427d54.svg",
     "static/media/data.f096e041.svg": "/infinite-loop-wp/static/media/data.f096e041.svg",
+    "static/media/infinteloopERP.ee7dff6c.pdf": "/infinite-loop-wp/static/media/infinteloopERP.ee7dff6c.pdf",
     "static/media/login.svg": "/infinite-loop-wp/static/media/login.d7765b61.svg",
     "static/media/rev.92bfe67c.svg": "/infinite-loop-wp/static/media/rev.92bfe67c.svg",
     "static/media/sv1.svg": "/infinite-loop-wp/static/media/sv1.41dc34da.svg",
-    "static/media/video.1f7d396a.mp4": "/infinite-loop-wp/static/media/video.1f7d396a.mp4"
+    "static/media/video.642e1980.mp4": "/infinite-loop-wp/static/media/video.642e1980.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.652a2f6f.js",
-    "static/js/2.4000f31e.chunk.js",
-    "static/css/main.010d2ff3.chunk.css",
-    "static/js/main.c33c3208.chunk.js"
+    "static/js/runtime-main.a7e13fd0.js",
+    "static/js/2.ca761bed.chunk.js",
+    "static/css/main.ea2fcf8c.chunk.css",
+    "static/js/main.633a8520.chunk.js"
   ]
 }
