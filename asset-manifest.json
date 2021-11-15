@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/infinite-loop-wp/static/css/main.ea2fcf8c.chunk.css",
-    "main.js": "/infinite-loop-wp/static/js/main.633a8520.chunk.js",
-    "main.js.map": "/infinite-loop-wp/static/js/main.633a8520.chunk.js.map",
+    "main.js": "/infinite-loop-wp/static/js/main.9509ad16.chunk.js",
+    "main.js.map": "/infinite-loop-wp/static/js/main.9509ad16.chunk.js.map",
     "runtime-main.js": "/infinite-loop-wp/static/js/runtime-main.a7e13fd0.js",
     "runtime-main.js.map": "/infinite-loop-wp/static/js/runtime-main.a7e13fd0.js.map",
     "static/js/2.ca761bed.chunk.js": "/infinite-loop-wp/static/js/2.ca761bed.chunk.js",
@@ -22,12 +22,12 @@
     "static/media/login.svg": "/infinite-loop-wp/static/media/login.d7765b61.svg",
     "static/media/rev.92bfe67c.svg": "/infinite-loop-wp/static/media/rev.92bfe67c.svg",
     "static/media/sv1.svg": "/infinite-loop-wp/static/media/sv1.41dc34da.svg",
-    "static/media/video.642e1980.mp4": "/infinite-loop-wp/static/media/video.642e1980.mp4"
+    "static/media/video.87fae0bc.mp4": "/infinite-loop-wp/static/media/video.87fae0bc.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.a7e13fd0.js",
     "static/js/2.ca761bed.chunk.js",
     "static/css/main.ea2fcf8c.chunk.css",
-    "static/js/main.633a8520.chunk.js"
+    "static/js/main.9509ad16.chunk.js"
   ]
 }
